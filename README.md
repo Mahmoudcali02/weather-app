@@ -10,7 +10,7 @@ This application is not fully developed and it is still under construction.
 # Links 
 Repo Link: https://github.com/Mahmoudcali02/weather-app
 
-Deployed Link: 
+Deployed Link: https://mahmoudcali02.github.io/weather-app/#index.html
 
 # Credits
 Open weather map: https://openweathermap.org/api
