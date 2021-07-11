@@ -1,0 +1,16 @@
+html, body, .container-fluid, .content-row {
+    height: 100%;
+}
+
+.hide {
+    display: none;
+}
+
+.city-btn:hover {
+    background-color: #f6f5f5;
+    cursor: pointer;
+}
+
+.card {
+    background-color: #cce5ff;
+}
