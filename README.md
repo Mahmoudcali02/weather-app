@@ -1,8 +1,8 @@
 # Description 
-As a Junior Developer I was tasked to develope a weather dashboard that ouputs for multiple cities.
+As a Junior Developer I was tasked to develope a weather dashboard that outputs for multiple cities.
 
 ## Current state of the application
-This application is not fully developed and it is still under construction. 
+This application is currently running and it has been fully developed and deployed.
 
 # Screenshot
 ![Screenshot](assets/images/screenshot.png)
